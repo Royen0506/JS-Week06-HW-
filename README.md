@@ -1,1 +1,4 @@
 # JS-Week06-HW-
+
+<h1>AJAX套件axios搭配DOM、forEach(銜接第五週)</h1>
+<p>將功能包裝成函式，等資料response回來後呼叫函式帶入參數</p>
