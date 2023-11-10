@@ -1,9 +1,9 @@
+let data = [];
 axios
   .get(
     "https://raw.githubusercontent.com/hexschool/js-training/main/travelApi.json"
   )
   .then(function (res) {
-    let data = [];
     data = res.data.data;
     // console.log(data);
     render(data);
